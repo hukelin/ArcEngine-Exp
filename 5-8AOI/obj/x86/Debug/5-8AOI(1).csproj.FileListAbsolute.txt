@@ -1,0 +1,3 @@
+L:\Document\ArcEngine\5-8AOI\5-8AOI\bin\Debug\5-8AOI.exe.config
+L:\Document\ArcEngine\5-8AOI\5-8AOI\obj\x86\Debug\5-8AOI.exe
+L:\Document\ArcEngine\5-8AOI\5-8AOI\obj\x86\Debug\5-8AOI.pdb
